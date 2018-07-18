@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Spinnaker Workshop Labs
 
-You can use the [editor on GitHub](https://github.com/spinnaker/workshops/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Introduction**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Spinnaker [\(http://www.spinnaker.io\)](https://qconsf.com/sf2017/workshop/%28http://www.spinnaker.io%29) is an open source, multi-cloud continuous delivery platform built by Netflix in partnership with Google, Microsoft, and others. At Netflix, Spinnaker powers over 4,000 deployments a day. With Spinnaker, you can easily automate complex delivery processes into repeatable pipelines that enable rapid deployments with confidence.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This workshop will provide hands-on experience building continuous delivery pipelines for deploying and promoting code across cloud virtual machines and containers. We’ll start with a git repository and work together in building repeatable pipelines that take code through packaging, deploying, promoting and rollbacks.
 
-```markdown
-Syntax highlighted code block
+If you'd like a deeper dive into the concepts behind Spinnaker you can check out our [free e-book. ](https://www.spinnaker.io/ebook)
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+Get stared with [Lab 1](/lab-1.md)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/spinnaker/workshops/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
