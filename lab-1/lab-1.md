@@ -91,6 +91,3 @@ Bonus: in the lower righthand corner of the expanded task, you'll see a `source`
 * Asgard: Web-based Cloud Management and Deployment - [https://medium.com/netflix-techblog/asgard-web-based-cloud-management-and-deployment-2c9fc4e4d3a1](https://medium.com/netflix-techblog/asgard-web-based-cloud-management-and-deployment-2c9fc4e4d3a1)
 * Netflix's OSS Frigga Library - [https://github.com/Netflix/frigga](https://github.com/Netflix/frigga)
 * Moniker - [https://github.com/spinnaker/moniker](https://github.com/spinnaker/moniker)
-
-
-

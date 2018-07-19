@@ -11,6 +11,6 @@ If you'd like a deeper dive into the concepts behind Spinnaker you can check out
 
 ---
 
-Get stared with [Lab 1](/lab-1.md)
+Get stared with [Lab 1](/lab-1/lab-1.md)
 
 
