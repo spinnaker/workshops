@@ -165,7 +165,11 @@ Notice that this is a different strategy than the `deploy to dev` pipeline. For 
 
 1. You should have two 'prod' server groups - one should be green \(healthy\) and one should be greyed out \(disabled\)
 
+---
+
 Next Lab: [Lab 4](/lab-4.md)
+
+---
 
 **Resources:**
 

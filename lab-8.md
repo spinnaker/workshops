@@ -90,4 +90,8 @@ There are plenty of other MPT features. Take a look at the [docs \(https://githu
 
 After your gist is publicly available, get the link for the `raw` version (visible by clicking on the gist then clicking the "Raw" button at the top right of the file). Enter that link into the box that appears when you select the `Template Source` : `URL` radio button in the create new pipeline dialog.
 
+---
+
 Next Lab: [Clean up](clean-up.md)
+
+---

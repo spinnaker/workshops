@@ -82,4 +82,8 @@ Delete every server group that **does not** have a load balancer attached. Delet
 
 At the end of this clean up you should be left with one server group that has a load balancer attached \(this will be the most recently created server group\).
 
+---
+
 Next Lab: [Lab 3](/lab-3.md)
+
+---

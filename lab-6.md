@@ -100,4 +100,8 @@ The Check Preconditions stage is useful for branching logic. You can control whe
 
 When would this stage be useful in deploying a real application? What conditions could you check that would be helpful?
 
+---
+
 Next Lab: [Lab 7](/lab-7.md)
+
+---

@@ -78,7 +78,11 @@ Deployment windows are really useful if you have automated triggers but want a p
 
 1. Notice the `Restrict execution during time window` step that is already complete
 
+---
+
 Next Lab: [Lab 6](/lab-6.md)
+
+---
 
 **Resources:**
 

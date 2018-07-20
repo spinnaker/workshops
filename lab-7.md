@@ -176,7 +176,11 @@ The difference for this metric was pretty drastic - it would be easy to tell wit
 
 If you wanted this one metric to fail the whole canary with a score of `0`, you can update your canary config to have that behavior. In the `Metrics` section of the canary config edit your metric (`Errors`) and check the box for `Fail the canary if this metric fails`. However, this makes the score of the canary less obvious.
 
+---
+
 Next Lab: [Lab 8](/lab-8.md)
+
+---
 
 **Extra Resources**
 

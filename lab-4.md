@@ -42,7 +42,11 @@ You can add notifications at three different levels in Spinnaker: stage level, p
 
 Also notice that you can set an ad-hoc notifications when you start a pipeline manually by checking `Notify me when the pipeline completes`
 
+---
+
 Next Lab: [Lab 5](/lab-5.md)
+
+---
 
 **Resources:**
 

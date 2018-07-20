@@ -92,7 +92,11 @@ Navigate to the `Tasks` tab. You'll see a record for each action that you took
 
 Bonus: in the lower righthand corner of the expanded task, you'll see a `source` link. Click that, and it'll open the `JSON` representation of this tasks. This is what Spinnaker uses internally, and contains more information than the UI. Search for `authentication` to see your user block. Search for `trigger` to see that this task was manually triggered. Search for `imageId` to see the container that was deployed.
 
+---
+
 Next Lab: [Lab 2](/lab-2.md)
+
+---
 
 **Resources:**
 
