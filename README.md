@@ -23,3 +23,4 @@ If you'd like a deeper dive into the concepts behind Spinnaker you can check out
 * [Vocabulary Reference](/vocab-reference.md)
 * [Canary Reference](/canary-reference.md)
 * [MPT Reference](/mpt-reference.md)
+* [Set Up Guide](/infra-setup.md)
