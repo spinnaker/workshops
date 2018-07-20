@@ -2,6 +2,10 @@
 
 Previous Lab: [Lab 2](/lab-2.md)
 
+Jump to [TOC](/README.md)
+
+---
+
 **Goal:** Understand the different parts of a Spinnaker deployment pipeline, automate deploying a new version of your application.
 
 Creating a dev Deployment pipeline from docker registry

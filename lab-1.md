@@ -1,6 +1,10 @@
 # Lab 1: Spinnaker and the Cloud
 
-Previous: [Introduction](/readme.md)
+Previous: [Introduction](/README.md)
+
+Jump to [TOC](/README.md)
+
+---
 
 **Goal:** This Exercise introduces the concepts of Applications, Clusters and Server Groups and how they are represented in Spinnaker. Explore how to see what actions you've taken in Spinnaker.
 

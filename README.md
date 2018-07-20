@@ -13,5 +13,13 @@ If you'd like a deeper dive into the concepts behind Spinnaker you can check out
 
 * [Lab 1](/lab-1.md)
 * [Lab 2](/lab-2.md)
-
-
+* [Lab 3](/lab-3.md)
+* [Lab 4](/lab-4.md)
+* [Lab 5](/lab-5.md)
+* [Lab 6](/lab-6.md)
+* [Lab 7](/lab-7.md)
+* [Lab 8](/lab-8.md)
+* [Clean Up](/clean-up.md)
+* [Vocabulary Reference](/vocab-reference.md)
+* [Canary Reference](/canary-reference.md)
+* [MPT Reference](/mpt-reference.md)

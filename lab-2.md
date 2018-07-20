@@ -2,6 +2,10 @@
 
 Previous Lab: [Lab 1](/lab-1.md)
 
+Jump to [TOC](/README.md)
+
+---
+
 **Goal:** Understand how to use Spinnaker to manage and view your cloud infrastructure.
 
 In this section, we will adjust the infrastructure we created in the first section, and create new infrastructure.
