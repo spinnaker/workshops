@@ -1,5 +1,4 @@
-#
-Lab 5: Deployment Safeguards
+# Lab 5: Deployment Safeguards
 
 Previous Lab: [Lab 4](/lab-4.md)
 
