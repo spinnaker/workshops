@@ -11,14 +11,14 @@ If you'd like a deeper dive into the concepts behind Spinnaker you can check out
 ---
 ## Lab Links
 
-* [Lab 1](/lab-1.md)
-* [Lab 2](/lab-2.md)
-* [Lab 3](/lab-3.md)
-* [Lab 4](/lab-4.md)
-* [Lab 5](/lab-5.md)
-* [Lab 6](/lab-6.md)
-* [Lab 7](/lab-7.md)
-* [Lab 8](/lab-8.md)
+* [Lab 1](/lab-1.md) Spinnaker and the Cloud
+* [Lab 2](/lab-2.md) Infrastructure Management
+* [Lab 3](/lab-3.md) Deployment Pipelines
+* [Lab 4](/lab-4.md) Notifications
+* [Lab 5](/lab-5.md) Deployment Safeguards
+* [Lab 6](/lab-6.md) Advanced Pipeline JSON
+* [Lab 7](/lab-7.md) Canaries
+* [Lab 8](/lab-8.md) Managed Pipeline Templates
 * [Clean Up](/clean-up.md)
 * [Vocabulary Reference](/vocab-reference.md)
 * [Canary Reference](/canary-reference.md)
