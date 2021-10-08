@@ -6,7 +6,7 @@ Spinnaker [\(http://www.spinnaker.io\)](https://www.spinnaker.io) is an open sou
 
 This workshop will provide hands-on experience building continuous delivery pipelines for deploying and promoting code across cloud virtual machines and containers. We’ll start with a git repository and work together in building repeatable pipelines that take code through packaging, deploying, promoting and rollbacks.
 
-If you'd like a deeper dive into the concepts behind Spinnaker you can check out our [free e-book. ](https://www.spinnaker.io/ebook)
+If you'd like a deeper dive into the concepts behind Spinnaker you can check out our [free e-book. ](https://spinnaker.io/docs/concepts/ebook/)
 
 ---
 ## Lab Links
